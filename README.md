@@ -1,4 +1,4 @@
-An absolute bare-bones web app.
+A demo showing how to use the universal_html package.
 
 Update your packages:
 
@@ -15,7 +15,7 @@ $ derry run parser
 $ derry run server
 ```
 
-Checkout the `starter` branch if you wish to follow along with [the full tutorial]() here.
+Checkout the `starter` branch if you wish to follow along with [the full tutorial](https://youtu.be/V4O51L5RpVo) here.
 
 Created from templates made available by Stagehand under a BSD-style
 [license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
